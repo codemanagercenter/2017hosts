@@ -17,7 +17,17 @@
 <il>2.电脑版hosts谷歌服务已经完善修复，各类社交平台已经测试完美修复。</il>
 </lo>
 ####提示：如果突然连着连着ip就不通了有70%的可能是被运营商反向封了访问权限，只需要重新拨号或者重启手机即可解决，如果无法解决就是ip失效.<br />
-###youtube测试截图：
+###youtube测试截图（发布时测试功能98%正常）：
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/QQ%E6%88%AA%E5%9B%BE20170121230113.png"></a>
-###tumblr测试截图：
+###tumblr测试截图（发布时测试功能：50%正常）：
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/QQ%E6%88%AA%E5%9B%BE20170121230507.png"></a>
+###Google搜索测试截图（发布时测试功能100%正常）：
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/1.png"></a>
+###Facebook测试截图（发布时测试功能99%正常）：
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/2.png"></a>
+###维基百科测试截图（功能正常率100%）：
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/3.png"></a>
+###Dropbox测试截图（发布时测试功能100%正常）：
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/4.png"></a>
+###Twitter测试截图（发布时测试功能100%正常）：
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/5.png"></a>
