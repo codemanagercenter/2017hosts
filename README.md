@@ -31,3 +31,7 @@
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/4.png"></a>
 ###Twitter测试截图（发布时测试功能100%正常）：
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/5.png"></a>
+###vimeo测试截图（发布时测试功能100%正常）：
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/6.png"></a>
+###github测试截图（发布时测试功能100%正常）：
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/7.png"></a>
