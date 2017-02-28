@@ -12,8 +12,8 @@
 注意: Google 等网站请通过 https 方式访问，如 https://www.google.com/ncr 或者 https://www.google.com.hk 避免因响应http请求时的重置连接。这几版的hosts会一直更新，敬请大家留意关注。
 ####提示：请各位网络喷子，网评员，水军等人自觉绕道，左拐不送！
 ####手机版服务测试情况：
-####客户端可用：play市场，chrome，googleplus,google街景,google报亭,google环聊,google健身等十余款软件。
-####客户端不可用：play音乐,play游戏,google翻译,Gmail。
+####客户端可用：play市场，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo等软件
+####客户端不可用：play游戏,google翻译,Gmail。
 ####网页可用：100%可用，因为play音乐香港不支持所以无法使用。
 ###电脑版服务测试截图：
 ####提示：如果突然连着连着ip就不通了有70%的可能是被运营商反向封了访问权限，只需要重新拨号或者重启手机即可解决，如果无法解决就是ip失效.<br />
