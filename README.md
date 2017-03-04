@@ -1,5 +1,3 @@
-# 如果你处于中国电信网络下，可能无法正常使用本处提供的hosts文件，因为电信网络众所周知的出国慢我也没有办法。
-
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966"></a>
 
 **请务必认真阅读**
@@ -20,11 +18,11 @@
 
 * [pc](https://github.com/wangchunming/2017hosts/raw/master/hosts-pc)
 
-文件路径  `C:\Windows\System32\drivers\etc\hosts`
+替换文件路径  `C:\Windows\System32\drivers\etc\hosts`
 
 * [mobile](https://github.com/wangchunming/2017hosts/raw/master/hosts-mobile)
 
-文件路径 `/etc`  **需root**
+文件路径 `/etc`  **需root**（在linux平台下同样是这样，只不过是需要通过终端获得root后，再调出gedit或者vim编辑。
 
 ## 维护目的
 
