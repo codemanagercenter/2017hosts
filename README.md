@@ -23,8 +23,7 @@
 
 * [mobile](https://github.com/wangchunming/2017hosts/raw/master/hosts-mobile)
 
-文件路径 `/etc`  **需root**（在linux平台下同样是这样，只不过是需要通过终端获得root后，再调出gedit或者vim编辑。
-
+文件路径 `/etc`  **需root**（在linux平台下同样是这样，只不过是需要通过终端获得root后，再调出gedit或者vim编辑。）
 ## 维护目的
 
 **维护hosts不为别的，自己用的同时还有就为方便同时开发者或者学生的你/您，因此本页面也没有像其他某些hosts项目一样的捐款项目，请不要误会。**
@@ -45,8 +44,7 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 
 * Google 等网站请通过 https 方式访问，如 https://www.google.com/ncr 或者 https://www.google.com.hk 避免因响应http请求时的重置连接。这几版的hosts会一直更新，敬请大家留意关注。
 
-## 测试
-
+# 测试情况：
 ### 手机
 
 * 客户端可用：play市场，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr等软件
