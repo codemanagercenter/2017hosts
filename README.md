@@ -89,3 +89,6 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 * **github**
 发布时测试功能100%正常
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/7.png"></a>
+* **Bing（HK）**
+发布时测试功能100%正常（需要https打开）
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/8.PNG"></a>
