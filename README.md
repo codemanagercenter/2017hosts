@@ -14,15 +14,14 @@
 手机版则可以访问play商店并下载应用，别的hosts可不能哦，youtube在设备支持的情况下国内网络带宽足够的情况下可以裸连观看最低720p或480p最高1440p视频。
 欢迎将本项目分享给更多的人，方便更多人自由上网。 手机版的hosts因为找ip比较麻烦，所以暂时更新较慢，下一步将上ipv6hosts。
 
-## 下载hosts文件
+## 下载hosts文件（可直接输入第三方下载器，下载好改名为hosts替换进设备）
+* [电脑(windows)版](https://raw.githubusercontent.com/wangchunming/2017hosts/master/hosts-pc)
 
-* [电脑(windows)版](https://raw.githubusercontent.com/wangchunming/2017hosts/raw/master/hosts-pc)
+windows替换文件路径  `C:\Windows\System32\drivers\etc\hosts`
 
-替换文件路径  `C:\Windows\System32\drivers\etc\hosts`
+* [手机版](https://raw.githubusercontent.com/wangchunming/2017hosts/master/hosts-mobile)
 
-* [手机版](https://raw.githubusercontent.com/wangchunming/2017hosts/raw/master/hosts-mobile)
-
-文件路径 `/etc`  **需root**（在linux平台下同样是这样，只不过是需要通过终端获得root后，再调出gedit或者vim编辑。）
+手机替换文件路径 `/etc`  **需root**（在linux平台下同样是这样，只不过是需要通过终端获得root后，再调出gedit或者vim编辑。）
 ## 维护目的
 
 **维护hosts不为别的，自己用的同时还有就为方便同时开发者或者学生的你/您，因此本页面也没有像其他某些hosts项目一样的捐款项目，请不要误会。**
