@@ -14,7 +14,7 @@
 手机版则可以访问play商店并下载应用，别的hosts可不能哦，youtube在设备支持的情况下国内网络带宽足够的情况下可以裸连观看最低720p或480p最高1440p视频。
 欢迎将本项目分享给更多的人，方便更多人自由上网。 手机版的hosts因为找ip比较麻烦，所以暂时更新较慢，下一步将上ipv6hosts。
 
-## 下载hosts文件（可直接输入第三方下载器，下载好改名为hosts替换进设备）
+## 下载hosts文件（可直接把地址复制，输入第三方下载器，下载好改名为hosts替换进设备）
 * [电脑(windows)版](https://raw.githubusercontent.com/wangchunming/2017hosts/master/hosts-pc)
 
 windows替换文件路径  `C:\Windows\System32\drivers\etc\hosts`
