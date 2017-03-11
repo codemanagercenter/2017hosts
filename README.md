@@ -11,17 +11,16 @@
 
 使用本hosts更新源提供的hosts可以获得完美的youtube视频（如果因为重定向超时加载不出来的话刷新一下网页就好了，最新的hosts目前中国大陆多地区实测刷新率降到1%以下，重定向是可以自行重定向的，相关服务器域名也是其他人的hosts里几乎没有的）和其他服务的较完美体验（已经在所有hosts里添加google云端硬盘视频预览域名，电脑版本google+的网页大图预览问题也已经解决，播放视频或许还不完美），请在杀毒软件内添加hosts信任！如果你要想添加什么网址你可以开启一个lssues并清晰地表明你的意愿。本hosts不保证随时可用，但是我会尽我最大努力让它高可用。
 
-手机版则可以访问play商店并下载应用，别的hosts可不能哦。
-
+手机版则可以访问play商店并下载应用，别的hosts可不能哦，youtube在设备支持的情况下国内网络带宽足够的情况下可以裸连观看最低720p或480p最高1440p视频。
 欢迎将本项目分享给更多的人，方便更多人自由上网。 手机版的hosts因为找ip比较麻烦，所以暂时更新较慢，下一步将上ipv6hosts。
 
-## 下载'hosts'文件
+## 下载hosts文件
 
-* [pc](https://github.com/wangchunming/2017hosts/raw/master/hosts-pc)
+* [电脑(windows)版](https://raw.githubusercontent.com/wangchunming/2017hosts/raw/master/hosts-pc)
 
 替换文件路径  `C:\Windows\System32\drivers\etc\hosts`
 
-* [mobile](https://github.com/wangchunming/2017hosts/raw/master/hosts-mobile)
+* [手机版](https://raw.githubusercontent.com/wangchunming/2017hosts/raw/master/hosts-mobile)
 
 文件路径 `/etc`  **需root**（在linux平台下同样是这样，只不过是需要通过终端获得root后，再调出gedit或者vim编辑。）
 ## 维护目的
@@ -44,7 +43,7 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 
 * Google 等网站请通过 https 方式访问，如 https://www.google.com/ncr 或者 https://www.google.com.hk 避免因响应http请求时的重置连接。这几版的hosts会一直更新，敬请大家留意关注。
 
-# 测试情况：
+## 测试情况：
 ### 手机
 
 * 客户端可用：play市场，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr等软件
