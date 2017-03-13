@@ -45,11 +45,10 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 ## 测试情况：
 ### 手机
 
-* 客户端可用：play市场，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr等软件
+* 客户端可用：play市场，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr,twitter,facebook,ins,duckduckgo等软件
+* 客户端不可用：play游戏,google翻译,Gmail,telegram
 
-* 客户端不可用：play游戏,google翻译,Gmail。
-
-* 网页可用：100%可用，但因为play音乐香港不支持所以无法使用。
+* 网页可用：100%可用
 
 ### 电脑
 
