@@ -46,7 +46,7 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 ### 手机
 
 * 客户端可用：play市场，Google搜索，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr,twitter,facebook,instragram,duckduckgo等软件
-* 客户端不可用：google翻译,Gmail,telegram
+* 客户端不可用：Gmail,telegram
 * 功能不可用：查找设备（安卓）
 * 网页可用：100%可用
 
