@@ -43,6 +43,7 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 * Google 等网站请通过 https 方式访问，如 https://www.google.com/ncr 或者 https://www.google.com.hk 避免因响应http请求时的重置连接。这几版的hosts会一直更新，敬请大家留意关注。
 
 ## 测试情况：
+#2017年4月21日：香港的SNI所在运营商内的google服务器已炸，暂无办法解决（youtube）
 ### 手机
 
 * 客户端可用：play市场，Google搜索，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr,twitter,facebook,instragram,duckduckgo等软件
